@@ -1,6 +1,6 @@
 # UCLA_CSX_450_Final
 ## 1. The domain of the problem
-Data includes a few measurements of abalone, including sex, length, weight, rings, etc.Data comes from an original (non-machine-learning) study: Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and Wes B Ford (1994) "The Population Biology of Abalone (_Haliotis_species) in Tasmania. I. Blacklip Abalone (_H. rubra_) from the North Coast and Islands of Bass Strait", Sea Fisheries Division, Technical Report No. 48 (ISSN 1034-3288. 
+Data includes a few measurements of abalone, including sex, length, weight, rings, etc. We're using the other measurements to get the value of rings for predicting the abalone age. Data comes from an original (non-machine-learning) study: Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and Wes B Ford (1994) "The Population Biology of Abalone (_Haliotis_species) in Tasmania. I. Blacklip Abalone (_H. rubra_) from the North Coast and Islands of Bass Strait", Sea Fisheries Division, Technical Report No. 48 (ISSN 1034-3288. 
 ## 2. A problem statement in which you clearly define
 The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope. Instead of using this comlicated method, we're using some other physical measurements to predict the age of abalone. We'll use supervised learning to do a regression model to predict the abalone age.
 ## 3. Dataset Description
